@@ -1,2 +1,2 @@
-1.The version is 5.0
+1.The version is 7.0
 modify by czx
